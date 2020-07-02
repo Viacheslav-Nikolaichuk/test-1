@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Practise2018.cpp
+d:\zdtu\first course\основи програмування\practise 2018\practise 2018\practise2018.cpp(100): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+d:\zdtu\first course\основи програмування\practise 2018\practise 2018\practise2018.cpp(110): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+d:\zdtu\first course\основи програмування\practise 2018\practise 2018\practise2018.cpp(217): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+d:\zdtu\first course\основи програмування\practise 2018\practise 2018\practise2018.cpp(231): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+d:\zdtu\first course\основи програмування\practise 2018\practise 2018\practise2018.cpp(278): warning C4715: EditData: значение возвращается не при всех путях выполнения
+  Practise 2018.vcxproj -> D:\ZDTU\First course\Основи програмування\Practise 2018\Debug\Practise 2018.exe
+  Practise 2018.vcxproj -> D:\ZDTU\First course\Основи програмування\Practise 2018\Debug\Practise 2018.pdb (Partial PDB)
